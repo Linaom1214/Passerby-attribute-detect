@@ -1,0 +1,30 @@
+item {
+    id: 1
+    name: 'hat'
+}
+
+item {
+    id: 2
+    name: 'head'
+}
+
+item {
+    id: 3
+    name: 'top'
+}
+
+item {
+    id: 4
+    name: 'down'
+}
+
+item {
+    id: 5
+    name: 'shoes'
+}
+
+item {
+    id: 6
+    name: 'bag'
+}
+
